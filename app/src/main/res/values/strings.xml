@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TensorflowModels</string>
+    <string name="screen_fruits">Fruits</string>
+    <string name="screen_flower">Flowers</string>
+    <string name="screen_autoparts">Auto parts</string>
+    <string name="screen_face">Face</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+</resources>
